@@ -1,3 +1,10 @@
+/*
+ * XXX
+ *  THIS MODULE IS DEPRECATED: A FORK BASED ON A VERY OLD VERSION OF
+ *  https://github.com/nullportal/gq/blob/master/gq.js
+ * XXX
+ */
+
 'use strict';
 
 var url = require('url');
